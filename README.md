@@ -1,0 +1,2 @@
+# Chordify
+Chord progression generator
